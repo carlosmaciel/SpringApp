@@ -1,0 +1,40 @@
+input[type=text], select, #cmb-voto-associado {
+	margin-bottom: 10px;	
+	width: 100%;
+}
+
+#clock {
+	text-align: center;
+	font-size: 40px;	
+}
+
+#encerrada {
+	color: red;
+}
+
+#resultado-sessao, #resultado-votacao {
+	text-align: center;
+}
+
+#area-votacao div, #lbl-clock {
+	text-align: center;
+}
+
+input[name="radio-voto"], #area-votar {
+	margin-right: 5px;
+	margin-bottom: 40px;
+}
+
+label[for="sim-radio-voto"], label[for="nao-radio-voto"] {
+	font-size: 15px;
+	margin-right: 10px;
+}
+
+#btn-encerrar {
+	background-color: rgb(255, 85, 89);
+	border-color: rgb(255, 85, 89);
+}
+
+#lbl-voto-sim, #lbl-voto-NAO {
+	font-weight: normal;
+}

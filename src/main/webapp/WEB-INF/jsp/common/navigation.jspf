@@ -1,0 +1,10 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li id="li-home"><a href="#">Home</a></li>
+			<li id="li-list-pautas"><a href="#">Pautas</a></li>
+			<li id="li-list-associados"><a href="#">Associados</a></li>
+			<li id="li-votacao"><a href="#">Votação</a></li>
+		</ul>
+	</div>
+</nav>
