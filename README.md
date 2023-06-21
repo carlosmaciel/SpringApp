@@ -2,7 +2,6 @@
 
 - Carlos Maciel da Silva
 - Email: carlosmacie@gmail.com
-- Telefone: +55 21 98225-4291
 
 # Objetivo do sistema
 
